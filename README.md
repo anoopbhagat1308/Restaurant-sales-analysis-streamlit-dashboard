@@ -124,16 +124,9 @@ matplotlib
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Check the deployed app
 
-> Add screenshots of your dashboard here.
-
-Example:
-
-```
-images/dashboard.png
-```
-
+website : https://restaurant-sales-analysis-app-dashboard.streamlit.app/
 ---
 
 ## 💼 Business Insights
